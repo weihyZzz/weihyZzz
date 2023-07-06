@@ -1,6 +1,7 @@
 ## Hello 👋
-
+🤙已经有![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)个人访问过我了✨
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
 
 ### I'm Haoyang Wei
 
